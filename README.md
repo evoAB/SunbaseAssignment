@@ -8,36 +8,43 @@ Sunbase assignment Backend Repository https://github.com/evoAB/SunbaseAssignment
 
 <hr>
 
-<b>Tech Stack Used</b>
+# Tech Stack Used
 FrontEnd :- Html, css, Js
+
 Backend :- Spring Boot, Java, JWT Authentication, SQL (Database: customerdb)
 
 <hr>
 
 <b>Login page</b>
 ![Login](screenshots/login.png)
+<hr>
 
 <b>Customer List</b>
 ![list](screenshots/Screenshot(86).png)
+<hr>
 
 <b>Add Customer</b>
 ![Add](screenshots/Screenshot(95).png)
 ![Add](screenshots/Screenshot(87).png)
+<hr>
 
 <b>Search By phone</b>
 ![Search](screenshots/Screenshot(90).png)
+<hr>
 
 <b>Sort By Email</b>
 ![Sort](screenshots/Screenshot(94).png)
+<hr>
 
 <b>Edit Customer</b>
 ![Edit](screenshots/Screenshot(91).png)
 ![Edit](screenshots/Screenshot(92).png)
 ![Edit](screenshots/Screenshot(93).png)
+<hr>
 
 <b>Sync</b>
 ![Sync](screenshots/Screenshot(88).png)
-
+<hr>
 
 
 # Getting Started
@@ -66,6 +73,8 @@ Right-click on the file and choose "Run SunbaseAssignmentApplication."
 
 
 The backend server should start running, and you should see the application logs in the IntelliJ console.
+<hr>
+
 
 # Getting Started with FrontEnd
 
@@ -75,9 +84,9 @@ Clone this repository to your local machine using the following command:
 
 git clone https://github.com/evoAB/SunbaseAssignmentFrontend
 
-
-2) go to index.html page and open in live server , then login in with username and password given below .
+go to index.html page and open in live server , then login in with username and password given below .
 
 # Log in using the following credentials:
    Username: Abhi
+
    Password: abhi
