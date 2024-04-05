@@ -1,19 +1,15 @@
 # Sunbase Assignment
 
-<hr>
-
 Sunbase assignment Frontend Repository https://github.com/evoAB/SunbaseAssignmentFrontend
 
 Sunbase assignment Backend Repository https://github.com/evoAB/SunbaseAssignment
 
-<hr>
 
 # Tech Stack Used
 FrontEnd :- Html, css, Js
 
 Backend :- Spring Boot, Java, JWT Authentication, SQL (Database: customerdb)
 
-<hr>
 
 <b>Login page</b>
 ![Login](screenshots/login.png)
